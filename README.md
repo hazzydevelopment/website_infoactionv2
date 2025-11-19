@@ -29,6 +29,8 @@ The **most advanced domain scanning GitHub Action**.
 ✔ VirusTotal check (optional API)  
 ✔ AbuseIPDB risk score (optional API)
 
+**Purshace To DM for discord qfb4 or e-mail**
+
 ### Usage
 ```yaml
 - uses: website_infoactionv2
