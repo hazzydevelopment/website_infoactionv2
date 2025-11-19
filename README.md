@@ -9,7 +9,7 @@ Basic website info tool.
 - Simple WHOIS field (registrar)
 - Basic tech hints (WordPress, server header, x-powered-by)
 
-# Website Inspector PRO
+# Website İnfoaction V2 Premium
 
 The **most advanced domain scanning GitHub Action**.
 
