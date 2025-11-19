@@ -1,0 +1,29 @@
+name: "Website Inspector FREE"
+description: "Basic website info: IP, SSL expiry, simple WHOIS, tech hints."
+author: "YOUR_NAME"
+branding:
+  icon: "globe"
+  color: "purple"
+
+inputs:
+  url:
+    description: "Website URL or domain"
+    required: true
+
+runs:
+  using: "node20"
+  main: "index.js"
+
+outputs:
+  domain:
+    description: "Domain name"
+  ip:
+    description: "IPv4 address"
+  ip_country:
+    description: "Country of IP"
+  ssl_expires:
+    description: "SSL expiry (ISO)"
+  registrar:
+    description: "Basic registrar info"
+  tech_hints:
+    description: "Simple technology hints"
